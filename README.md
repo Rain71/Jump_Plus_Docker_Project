@@ -25,21 +25,6 @@ Build and Run All Services with Docker Compose
   - Use the 'docker-compose up' command to build and start all services defined in your Docker Compose file
   - Verify that the containers are properly linked and can communicate with each other
   - Perform functional testing to ensure the React app can fetch, display, and manipulate data via the Flask API
-  - Check error handling and data validation across both platforms
-
-Preview of Application:
-
----------------------------------
-| Shopping List                 |
----------------------------------
-|                               |
-| Add new item: [_____________] |
-| [Add]                         |
----------------------------------
-| - Milk       [Delete]         |
-| - Eggs       [Delete]         |
-| - Bread      [Delete]         |
----------------------------------
 
 
 
